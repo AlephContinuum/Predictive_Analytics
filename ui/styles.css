@@ -1,0 +1,22 @@
+
+.title {
+    font-size: 3rem;
+    text-align: center;
+    font-weight: 700;
+    color: #ffffff;
+    background: linear-gradient(90deg, #6a11cb, #2575fc);
+    padding: 20px;
+    border-radius: 15px;
+}
+.card {
+    background: rgba(255,255,255,0.18);
+    padding: 25px;
+    border-radius: 20px;
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255,255,255,0.2);
+    margin-bottom: 20px;
+}
+.subheader {
+    margin-top: 20px;
+    font-size: 1.5rem;
+}
