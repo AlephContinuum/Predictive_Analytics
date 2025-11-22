@@ -81,5 +81,5 @@ kubectl apply -f k8s/service.yml
 - PROJECT_DESCRIPTION.md  
 
 ## ⭐ Author
-Aleph_Continuum 
+Aleph_Continuum
 AI • ML • Full-Stack Engineering
